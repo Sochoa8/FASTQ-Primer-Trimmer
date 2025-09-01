@@ -23,7 +23,7 @@ This script provides a way to trim primers from FASTQ files. It was developed as
 4. Run the script using the python command:
 
 ```bash
-python cutadapted.py
+python primer_trimmer.py
 ```
 The script will then guide you through the interactive steps as described before (file selection via pop-up dialogs, parameter input in the terminal).
 ---
